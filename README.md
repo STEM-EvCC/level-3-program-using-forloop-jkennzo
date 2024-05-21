@@ -2,4 +2,4 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15110347)
 # STEM103_Level3_1-ForLoop
 
-Looked at data in lists and printed our certain parts of the data that met certain expectations. Also used math to calculate percentages.
+Looked at data in lists and printed out parts of the data that met certain expectations. Also used math to calculate percentages.
